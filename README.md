@@ -8,9 +8,10 @@ Seje pra estudar para uma prova, aprender algo novo, ou memorizar algo.
 ---
 
 ## Como usar
-Após iniciar 
-1
-2
-3
+Após iniciar o projeto você pode:
+1 Criar um leque de perguntas
+2 Adicionar seus flashcards com uma pergunta na frente e uma resposta atrás.
+3 Navergar pelos cards e clicar para virá-los , testando seus conhecimentos.
 
 ## Créditos 
+Desenvolvido por Rafaela 2B
